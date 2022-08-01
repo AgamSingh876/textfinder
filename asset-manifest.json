@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textfinder/static/css/main.cd80eba0.css",
+    "main.js": "/textfinder/static/js/main.88fe4715.js",
+    "static/js/787.cd2d6bdd.chunk.js": "/textfinder/static/js/787.cd2d6bdd.chunk.js",
+    "index.html": "/textfinder/index.html",
+    "main.cd80eba0.css.map": "/textfinder/static/css/main.cd80eba0.css.map",
+    "main.88fe4715.js.map": "/textfinder/static/js/main.88fe4715.js.map",
+    "787.cd2d6bdd.chunk.js.map": "/textfinder/static/js/787.cd2d6bdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd80eba0.css",
+    "static/js/main.88fe4715.js"
+  ]
+}
